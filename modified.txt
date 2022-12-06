@@ -4,3 +4,4 @@ two
 three
 four
 modification after import 
+commit from GitHub site --> merge conflict ? 
